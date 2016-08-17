@@ -6,9 +6,9 @@ color:
   saturation: 0.47652327734977007
   rhythmicContrast: 0.6466609502676874
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
 name: Nabe
