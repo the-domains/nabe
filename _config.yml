@@ -1,0 +1,14 @@
+layout_spectrum: 0.8073318905662745
+typography_spectrum: 0.11570377112366259
+color:
+  brandStrength: 0.15137145156040788
+  lightness: 0.18222652026452124
+  saturation: 0.47652327734977007
+  rhythmicContrast: 0.6466609502676874
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Nabe
